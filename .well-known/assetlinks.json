@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.talk.WebMoon",
-    "sha256_cert_fingerprints":
-    ["B0:B2:75:FB:54:2C:F7:06:82:70:6D:D9:3D:1C:A2:AC:82:EC:93:64:F4:36:8A:97:52:CE:2E:A6:AD:07:9D:55"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.talk.WebMoon",
+               "sha256_cert_fingerprints": ["B0:B2:75:FB:54:2C:F7:06:82:70:6D:D9:3D:1C:A2:AC:82:EC:93:64:F4:36:8A:97:52:CE:2E:A6:AD:07:9D:55"] }
 }]
